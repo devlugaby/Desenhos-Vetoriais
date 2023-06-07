@@ -1,0 +1,34 @@
+h2{
+    color:rgb(87, 237, 217);
+}
+
+h1{
+     color:rgb(87, 237, 217);
+}
+
+.button {
+    background-color:rgb(87, 237, 217); 
+    border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid rgb(10, 66, 59); 
+    transition-duration: 0.4s;
+  }
+  .button:hover {
+    background-color: rgb(10, 66, 59);
+    color: white;
+  }
+  
+.cabecalh0{
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align:justify;
+    font-size:medium;
+    background-color:black;
+}
+
